@@ -2,11 +2,12 @@ Hiwot Woldemicheal's Portfolio
 Welcome to my personal portfolio! This website showcases my skills and projects as a Computer Science Graduate and Software Developer. Below is a brief overview of the content and features of this site.
 
 Table of Contents
-Overview
-Technologies Used
-Features
-Project Highlights
-Contact
+                Overview
+                Technologies Used
+                Features
+                Project Highlights
+                Contact
+
 
 Overview
 This portfolio is designed to present my background in software development, including front-end and back-end technologies, mobile app development, and machine learning. The layout is responsive and user-friendly, created using HTML, CSS (TailwindCSS), and JavaScript.
